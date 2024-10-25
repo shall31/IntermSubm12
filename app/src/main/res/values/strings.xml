@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">IntermSubm1-2</string>
+    <string name="register">Register</string>
+    <string name="masukkan_password_anda">Masukkan Password anda</string>
+    <string name="masukkan_email_anda">Masukkan Email anda</string>
+    <string name="masukkan_nama_anda">Masukkan Nama anda</string>
+    <string name="password_harus_lebih_dari_8_karakter">Password harus lebih dari 8 karakter</string>
+    <string name="login">Login</string>
+    <string name="belum_punya_akun">Belum punya akun ?</string>
+    <string name="sudah_punya_akun">Sudah punya akun ?</string>
+    <string name="logout">Logout</string>
+    <string name="camera_x">CameraX</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Upload</string>
+    <string name="masukkan_deskripsi">Masukkan deskripsi</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="start_point">Aqhsal</string>
+    <string name="gunakan_lokasi">Gunakan Lokasi ?</string>
+</resources>
